@@ -1,3 +1,1 @@
-# Hello world.
-# Currently studying to be a full stack engineer
-# Let the countdown begin 
+# Hello world!, currently studying to be a full stack engineer, let the countdown begin!!!
